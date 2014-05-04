@@ -7,9 +7,9 @@ Tested on OS X 10.9.2 and Xcode 5.1.1.
 
 Usage
 ==================
-Install to your preferred components directory.
+Build. Move component to preferred directory.
 
-Validate with auval:
+Validate with Apple's auval utility:
 
 ```bash
 $ auval -64 -a | grep JSIN
